@@ -1,0 +1,5 @@
+cat foo.txt
+exit
+git status
+close
+clear
